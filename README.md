@@ -14,4 +14,5 @@ Game Download Link: https://drive.google.com/file/d/1ieSYI59_xHdcqMwsDg6y_ejYvLl
 
 
 
-https://github.com/AtaberkAdali/Archers-Battle-Mutant-Onslaught/assets/59842906/6d5162ab-3d4d-426b-ae47-1b6a726d9924
+https://github.com/AtaberkAdali/Archers-Battle-Mutant-Onslaught/assets/59842906/aed8f4a2-9fc2-43bc-b6b3-b6448016b1bc
+
