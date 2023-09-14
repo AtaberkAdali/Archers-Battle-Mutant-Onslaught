@@ -4,11 +4,15 @@ Made using Unity version 2020.3.30f1
 *Project End Year : 2023*
  
 Suitable for VR use.
-Game Download Link: 
+Game Download Link: https://drive.google.com/file/d/1ieSYI59_xHdcqMwsDg6y_ejYvLl5Hoxd/view?usp=sharing
 
 # Gameplay
 
 
 
-https://github.com/AtaberkAdali/Archers-Battle-Mutant-Onslaught/assets/59842906/6aaefd4c-63bd-4113-ad5d-cb24404774bc
+
+
+https://github.com/AtaberkAdali/Archers-Battle-Mutant-Onslaught/assets/59842906/6d5162ab-3d4d-426b-ae47-1b6a726d9924
+
+
 
